@@ -1,0 +1,45 @@
+body{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdzUGqDxAgiveQBknO8gA-yUueW2x5Nkb0Hg&usqp=CAU");
+}
+.all
+{
+	border: 10px white solid;
+	background-color: white;
+	align-content: center;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+.headTop{
+	background-color: #A8F0F0 ;
+	text-align: right;
+}
+.subHead{
+	font-size: 14px;
+}
+
+.article
+{
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+}
+
+#data
+{
+	border-bottom: 2px blue dashed;
+
+}
+img{
+	display: initial;
+	padding: 0;
+}
+.friends
+{
+	float: left;
+	clear: left;
+}
+body:hover
+{
+	color:yellow;
+}
